@@ -145,5 +145,8 @@ Huge thanks to Wiktionary contributors for building a frequency list
 of English as used in television and movies:
 http://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
 
+Many thanks to the University of Leipzig for releasing their Dutch word lists:
+http://wortschatz.uni-leipzig.de/html/sitemap.html
+
 Last but not least, big thanks to xkcd :)
 https://xkcd.com/936/
